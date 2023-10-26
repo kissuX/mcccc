@@ -60,19 +60,12 @@
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 ### Url Shortner Variable
 * `SHORT_URL` : Url Of Shortner Site You Use
-* `SHORT_API` : Api Key Of Shortner Which You Use
-
-
-## Deploy to Heroku
-
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+* `SHORT_API` : Api Key Of Shortner Which You Use                 
 
 
 ## Deploy To Render                 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kissu1/Rename)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kissu1/Proffesorbot)
 ## Basic Commands
 ```
 start - check bot alive

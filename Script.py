@@ -3,21 +3,19 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
- Managed By🤞   <a herf=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a>
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>""" Manage by🤞<a href=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a>
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ:<a href=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a> 
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Devilʙᴏᴛ ᴠ2.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Devilʙᴏᴛ ᴠ2.0.0</b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a>
+    SOURCE_TXT = """<b>Source:</b>
+🌱 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a></b>"""
+<b>ᴅᴇᴠ:<a herf=https://t.me/kissu123456>𝐊𝐢𝐬𝐬𝐮 💞</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 

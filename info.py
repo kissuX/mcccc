@@ -45,7 +45,7 @@ BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", script.BUTTON_LOCK_TEXT)
 FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', script.FORCE_SUB_TEXT)
 
 WELCOM_PIC = environ.get("WELCOM_PIC", "")
-WELCOM_TEXT = environ.get("WELCOM_TEXT", script.WELCOM_TEX)
+WELCOM_TEXT = is_enabled(environ.get('WELCOME_TXT', "False"), False)
 PMFILTER = is_enabled(environ.get('PMFILTER', "True"), True)
 G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)

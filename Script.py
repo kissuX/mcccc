@@ -210,7 +210,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
     
     BUTTON_LOCK_TEXT = "Hᴇʏ {query}\nTʜɪꜱ Iꜱ Nᴏᴛ Fᴏʀ Yᴏᴜ. Sᴇᴀʀᴄʜ Yᴏᴜʀ Sᴇʟꜰ"
    
-    FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ🥹 Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ 🎩Aɢᴀɪɴ"
+    FORCE_SUB_TEXT = " Yᴏᴜ'ʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ BACKUP Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ 🥹 Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Jᴏɪɴ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ 🎩 Aɢᴀɪɴ"
    
     WELCOM_TEXT = """Hᴇʏ {user} 💞
 

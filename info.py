@@ -17,7 +17,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
-PICS = (environ.get('PICS' ,'https://graph.org/file/ae90dc4fc5e0aa51949d8.jpg https://graph.org/file/c473ba71fe6994b8d69b4.jpg https://graph.org/file/ee8ec43c370e401c9cd9f.jpg https://graph.org/file/e0d02abd406207da6c548.jpg')).split()
+PICS = (environ.get('PICS' ,'https://graph.org/file/bbf482b9f2da773e7a825.jpg https://graph.org/file/8cf4fa4119899c4cf6359.jpg https://graph.org/file/ea1dd0ddfe2a2dda8326b.jpg https://graph.org/file/0c85d859f9dcf2a1eab64.jpg https://graph.org/file/318574faa895fbf9886cd.jpg https://graph.org/file/9c005fbfa7fa3e9563c0d.jpg https://graph.org/file/2876c3468997eca18079b.jpg https://graph.org/file/46eb130c68eb77da71cde.jpg https://graph.org/file/da516f034f0a991e5c2ed.jpg')).split()
 UPTIME = time.time()
 
 # Admins, Channels & Users
@@ -32,7 +32,7 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URL = environ.get('DATABASE_URL', "")
+DATABASE_URL = environ.get('DATABASE_URL', "mongodb+srv://Yousay:Yousay@cluster0.n8rdztl.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 FILE_DB_URL = environ.get("FILE_DB_URL", DATABASE_URL)
 FILE_DB_NAME = environ.get("FILE_DB_NAME", DATABASE_NAME)
